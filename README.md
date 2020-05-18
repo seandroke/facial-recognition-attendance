@@ -14,3 +14,30 @@ The basic use case of this application is to allow for a professor or class lead
 | Django REST Framework | 3.10.3 | The backend also uses the Django REST framework to create REST-full API utilities for the front end application. |
 | Face Recognition | 1.2.3 | Face recognition is an open source library available on GutHub that is one of the more accurate Python recognition systems available. This is used in part to handle attendance taking. |
 | NPM | Non Specific | The Node Package Manager is used to handle all of the front end dependencies associated with the React app. |
+
+## Usage
+
+The application has two core components, front end and back end. Both are separate applications referencing one another through API calls. The directory structure has simply labeled these two entities.
+
+<i>To start the front end...</i>
+
+
+cd front_end
+
+npm install
+
+npm start
+
+
+<i>To start the back end</i>
+
+
+cd back_end
+
+python3 manage.py makemigrations
+
+python3 manage.py migrate
+
+python3 manage.py runserver 0.0.0.0:8007
+
+<b>NOTE: You may have to change some things in Settings.py as well as some of the URLS for the API's as they are platform specific to my server.</b>
