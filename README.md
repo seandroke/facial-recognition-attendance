@@ -28,7 +28,8 @@ npm install
 
 npm start
 
-<br />
+
+
 <i>To start the back end...</i>
 
 
