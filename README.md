@@ -28,8 +28,8 @@ npm install
 
 npm start
 
-
-<i>To start the back end</i>
+<br />
+<i>To start the back end...</i>
 
 
 cd back_end
