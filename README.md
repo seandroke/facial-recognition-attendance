@@ -45,3 +45,15 @@ python3 manage.py runserver 0.0.0.0:8007
 <b>NOTE: You may have to change some things in Settings.py as well as some of the URLS for the API's as they are platform specific to my server.</b>
 
 ## Screenshots
+
+![alt text](https://github.com/seandroke/facial-recognition-attendance/blob/master/screenshots/login.png)
+
+![alt text](https://github.com/seandroke/facial-recognition-attendance/blob/master/screenshots/main-dash.png)
+
+![alt text](https://github.com/seandroke/facial-recognition-attendance/blob/master/screenshots/create-class.png)
+
+![alt text](https://github.com/seandroke/facial-recognition-attendance/blob/master/screenshots/add-students.png)
+
+![alt text](https://github.com/seandroke/facial-recognition-attendance/blob/master/screenshots/class-overview.png)
+
+![alt text](https://github.com/seandroke/facial-recognition-attendance/blob/master/screenshots/attendance-backend.png)
