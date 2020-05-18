@@ -32,6 +32,7 @@ npm start
 <i>To start the back end...</i>
 
 
+
 cd back_end
 
 python3 manage.py makemigrations
