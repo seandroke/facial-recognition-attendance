@@ -43,3 +43,5 @@ python3 manage.py migrate
 python3 manage.py runserver 0.0.0.0:8007
 
 <b>NOTE: You may have to change some things in Settings.py as well as some of the URLS for the API's as they are platform specific to my server.</b>
+
+## Screenshots
